@@ -3,7 +3,7 @@
 
 ## STEP 1: VPC creation
 * created a custom VPC with a CIDR block of `10.0.0.0/16`
-![VPC creation](https://github.com/morysk/Aws/blob/main/VPC.png)
+![VPC creation](https://github.com/morysk/Aws/blob/6b5c9076062cba6c43a94ee04ea8d4a973eaa893/assignment%201/screenshots/VPC.png)
 * created one public subnet 
 ![Public subnet](https://github.com/morysk/Aws/blob/main/subnet-pub.png?raw=true)
 * created one private subnet
